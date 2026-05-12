@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.moviemash.app-debug-62:/drawable_poster_placeholder.jpg.flat",
+        "source": "com.moviemash.app-main-64:/drawable/poster_placeholder.jpg"
+    },
+    {
+        "merged": "com.moviemash.app-debug-62:/drawable_john_wick.png.flat",
+        "source": "com.moviemash.app-main-64:/drawable/john_wick.png"
+    },
+    {
+        "merged": "com.moviemash.app-debug-62:/drawable_ad_banner.png.flat",
+        "source": "com.moviemash.app-main-64:/drawable/ad_banner.png"
+    },
+    {
+        "merged": "com.moviemash.app-debug-62:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.moviemash.app-main-64:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.moviemash.app-debug-62:/xml_network_security_config.xml.flat",
+        "source": "com.moviemash.app-main-64:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.moviemash.app-debug-62:/drawable_avengers.png.flat",
+        "source": "com.moviemash.app-main-64:/drawable/avengers.png"
+    },
+    {
+        "merged": "com.moviemash.app-debug-62:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.moviemash.app-main-64:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.moviemash.app-debug-62:/drawable_matrix.png.flat",
+        "source": "com.moviemash.app-main-64:/drawable/matrix.png"
+    },
+    {
+        "merged": "com.moviemash.app-debug-62:/drawable_help_container.png.flat",
+        "source": "com.moviemash.app-main-64:/drawable/help_container.png"
+    },
+    {
+        "merged": "com.moviemash.app-debug-62:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.moviemash.app-main-64:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.moviemash.app-debug-62:/drawable_hero_home.png.flat",
+        "source": "com.moviemash.app-main-64:/drawable/hero_home.png"
+    }
+]
